@@ -1,0 +1,44 @@
+[
+    {
+      "question": "Where are you going to keep this plant?",
+      "choice1": "inside my house",
+      "choice2": "on my balcony",
+      "choice3": "outside in the ground",
+      "choice4": "inside on my desk"
+    },
+    {
+      "question": "What kind of light will this plant get?",
+      "choice1": "no light because it is in my bathroom",
+      "choice2": "its outside in the sun ",
+      "choice3": "A little light from a window",
+      "choice4": "its in the shade on the padio"
+    },
+    {
+      "question": "How much do you want to water it?",
+      "choice1": "its going to get rained on",
+      "choice2": "everyday",
+      "choice3": "when ever I remember",
+      "choice4": "once a week"
+    },
+    {
+      "question": "How big of a plant do you want?",
+      "choice1": "little bitty",
+      "choice2": "lamp size",
+      "choice3": "small chair size",
+      "choice4": "really big like a tree or bush"
+    },
+    {
+      "question": "What do you want your plant to look like?",
+      "choice1": "flowers",
+      "choice2": "fruits/vegitables",
+      "choice3": "spikey",
+      "choice4": "leafy"
+    },
+    {
+        "question": "what kind of weather do you get?",
+        "choice1": "hot, dry, and sunny",
+        "choice2": "cloudy, rainy, and cool",
+        "choice3": "I get all 4 seasons randomly",
+        "choice4": "it doesnt matter its going to be inside"
+    }
+  ]
