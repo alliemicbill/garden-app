@@ -7,7 +7,7 @@ and from your answers it looks through a json file to find the plant that is sui
 compiled using Vusual Studio code with the Live Server extention
 
 credit:
-All images are from the internet and because of the large amount of URLs they can not all be listed by credit to them.
+All images are from the internet and because of the large amount of URLs they can not all be listed but credit to them.
 
 Disclaimer:
 the plantlist json file is not complete so your results might not be a plant.
